@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+sentencepiece
+llama-cpp-python
+huggingface-hub
+numpy
+pandas
+scikit-learn
+nltk
+spacy
